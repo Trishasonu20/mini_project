@@ -4,7 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="16137546-42e4-47f7-a376-2510ac1e689f" name="Changes" comment="" />
+    <list default="true" id="16137546-42e4-47f7-a376-2510ac1e689f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/LiveYT.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LoginYT.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ShortsTest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/1e84ffb0-4c76-4656-bf3a-9000f26e4a6b-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/4ec969f4-e4b1-414d-9a6c-20d76090edb4-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/72194439-5de0-417e-bb76-80022aefd158-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/7f0ae412-acad-4729-8afe-38d83c56cc07-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/ad46a9c4-ed2e-46b1-99c6-c1cf3dffe7c2-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/c2df6dca-db83-423a-9ae4-40f915c8281a-result.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,19 +29,30 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 5
 }</component>
   <component name="ProjectId" id="2dcwkfen5IfsGyKbMaQmMdDJrKi" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "Python tests.Python tests for d2.TestGoogleSearch.test_Google_Search.executor": "Run",
     "Python tests.Python tests in HomePageTestA.py.executor": "Run",
+    "Python tests.Python tests in LiveYT.py.executor": "Run",
+    "Python tests.Python tests in LoginYT.py.executor": "Run",
+    "Python tests.Python tests in SearchTestPage.py.executor": "Run",
+    "Python tests.Python tests in SubscriptionsTest.py.executor": "Run",
     "Python tests.Python tests in d2.py.executor": "Run",
     "Python.d1.executor": "Run",
     "Python.mini_project.executor": "Run",
@@ -38,7 +61,8 @@
     "Python.mini_project_t3.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/CSLAB01-44/PycharmProjects/miniproject",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/lohit/OneDrive/Documents/GitHub/TeamBrownFinal",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
@@ -101,7 +125,6 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="SDK_NAME" value="Python 3.12 (pythonProject)" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
@@ -124,7 +147,6 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="SDK_NAME" value="Python 3.12 (pythonProject)" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
@@ -179,5 +201,8 @@
       <updated>1710308639572</updated>
     </task>
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
